@@ -14,7 +14,7 @@ This project explores **non-parametric regression** using the **k-Nearest Neighb
 ##  Dataset
 
 - **Source:** [Kaggle Dataset – Animal Lifespan](https://www.kaggle.com/datasets/jad201012/animals-lifespan)
-- **File:** `animal_lifespan.csv` (located in `dataset/` folder)
+- **File:** `animal_lifespan.csv` (located in `data/` folder)
 
 ## Preprocessing
 
