@@ -1,0 +1,59 @@
+animal name,animal category,living enviroment,average male weight in kg,average female weight in kg,living place,eggs or babys,domestic or wild,average lifespan in years
+cows,mamal,farms,1100,800,land,baby,domestic,20
+chicken,bird,farms,,3.5,land,eggs,domestic,7
+sheep,mamal,farms,67,76,land,baby,domestic,11
+pig,mamal,muddy,200,125,land,baby,domestic,17
+duck,bird,ponds,1.2,1.2,land-water-air,eggs,domestic,7
+quail,bird,wild not in water,120,135,land-water-air,eggs,domestic,1
+rooster,bird,farms,2.5,,land,can't reproduce,domestic,7
+chicks,bird,farms,0.008,0.008,land,can't reproduce,domestic,
+spiders,insect,tropical rainforests,0.052,0.045,land,eggs,wild,20
+bees,insect,farms,0.00011,0.0001,land-air,can't reproduce,domestic,0.08
+queen bees,insect,farms,0.0001,0.0001,land-air,eggs,domestic,2
+hawks,bird,forests,1,1.15,land-air,eggs,wild,20
+eagles,bird,forests,3,4.5,land-air,eggs,wild,25
+owls,bird,forests,0.446,3,land-air,eggs,wild,8
+stingrays,fish,ocean,300,23,water,eggs,wild,18
+bluefin tuna,fish,ocean,235,235,water,eggs,wild,15
+blue whales,fish,ocean,100000,136000,water,baby,wild,85
+white whales,fish,ocean,1500,1360,water,baby,wild,42
+white sharks,fish,ocean,850,2250,water,baby,wild,60
+whale sharks,fish,ocean,15000,11800,water,baby,wild,100
+blue ringed octopus,fish,ocean,0.028,0.045,water,eggs,wild,2
+octopus,fish,ocean,15,9.5,water,eggs,wild,4
+squid,fish,ocean,0.15,150,water,eggs,wild,4
+calamari,fish,ocean,0.2,1.6,water,eggs,wild,1
+anaconda,reptiles,tropical and normal forests,249.5,250,land,eggs,wild,5
+python,reptiles,tropical and normal forests,1.5,38,land,eggs,wild,30
+black mamba,reptiles,tropical and normal forests,1.03,1.6,land,eggs,wild,11
+green tree snakes,reptiles,tropical and normal forests,1.25,50,land,eggs,wild,15
+blood worms,invertabrates,underground,,,land,eggs,wild,0.008
+earthworms,invertabrates,underground,0.00025,0.00025,land,eggs,wild,8
+mice,mamal,farms and small burrows in the wild,0.019,0.025,land,baby,wild,16
+rats,mamal,farms and small burrows in the wild,0.4,0.275,land,baby,wild,2
+pigeons,bird,city,0.37,0.35,land-air,eggs,domestic,15
+pelicans,bird,beaches and lagoons,4,7.8,land-air,eggs,wild,20
+flamingo,bird,beaches and lagoons,3.5,3.5,land-air,eggs,wild,25
+whitetail deer ,mamal,forests,63,45,land,baby,wild,6
+european bee eater,bird,forests,0.06,0.055,land-air,eggs,wild,6
+hedghog,mamal,forests,0.5,0.075,land,baby,wild,5
+kangaroo,mamal,savanah ,70,29,land,baby,wild,8
+pandas,mamal,bamboo forests,100,104,land,baby,wild,17
+penguins,bird,antarctica and cold places,1,20,land,eggs,wild,17
+girafe,mamal,savanah ,1905.1,1180,land,baby,wild,25
+lion,mamal,savanah ,200,140,land,baby,wild,9
+tucan,bird,tropical rainforests,0.62,0.42,land-air,eggs,wild,16
+hippo,mamal,savanah ,1800,1400,land-water-air,baby,wild,45
+rhino,mamal,savanah ,2400,1600,land,baby,wild,45
+red panda,mamal,eastern himalayas,5,5.5,land,baby,wild,
+emu,bird,savanah ,42,5,land,eggs,wild,7
+ostrich,bird,savanah ,150,100,land,eggs,wild,35
+hyena,mamal,savanah ,59,71,land,baby,wild,12
+jaguar,mamal,savanah ,120,76,land,baby,wild,13
+leopard,mamal,savanah ,47,16,land,baby,wild,14
+komodo dragon,reptiles,tropical savanah forests,140,70,land,eggs,wild,30
+lizard,reptiles,deserts and forests,0.5,0.0005,land,eggs,wild,5
+monkey,mamal,jungles,6,4.5,land,baby,wild,27
+cougar,mamal,mountains,78,45,land,baby,wild,10
+panther,mamal,jungles,53,36,land,baby,wild,14
+mountain lion,mamal,mountains,62,45,land,baby,wild,10
